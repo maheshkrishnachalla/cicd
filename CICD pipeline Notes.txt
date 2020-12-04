@@ -1,0 +1,23 @@
+
+CICD DevOps for BigData Notes :
+==============================
+
+1. GIT : Git is a free and open source distributed version control system.
+
+2. GitHub : UI representation of the repository which is hosted on remote server
+
+  Repository : Grouping of files and folders
+ 
+  Distributed - Local <-- Staging Area --> Remote
+
+Git init
+Git status
+Git add
+Git commit
+Git push
+Git pull
+Git remote
+Git merge
+
+commands
+
